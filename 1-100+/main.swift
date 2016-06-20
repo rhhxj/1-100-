@@ -6,7 +6,19 @@
 //  Copyright (c) 2016年 20141105047. All rights reserved.
 //
 
+
 import Foundation
 
-println("Hello, World!")
+var i = 0
 
+var p = 0
+
+while 101 > i {
+    
+    p=p+i
+    
+    println(p)
+    
+    i++
+    
+}
